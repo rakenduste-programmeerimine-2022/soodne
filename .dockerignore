@@ -1,0 +1,12 @@
+node_modules
+.next
+.cache
+.env
+.git
+.github
+.idea
+.vscode
+coverage
+*.log
+*.swp
+.DS_Store
